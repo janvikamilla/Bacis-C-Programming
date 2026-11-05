@@ -7,6 +7,6 @@ scanf("%f", &length);
 printf("Enter breadth:");
 scanf("%f", &breadth);
 area = length*breadth;
-prinft("Area of rectangle=%.2f",area);
+printf("Area of rectangle=%.2f",area);
 return 0;
 }
