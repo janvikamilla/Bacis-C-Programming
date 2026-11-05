@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main
+int main ()
 {
   printf("Name: Janvi\n");
   printf("Branch: Robotics and Automation\n");
